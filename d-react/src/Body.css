@@ -1,0 +1,26 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    background: #13233a;
+    /* font-family: 'Cinzel', serif; */
+}
+/* .art-section-1{
+    background: #13233a;
+} */
+#home-page{
+    height: 50vh;
+    margin: 1.5rem;
+}
+ul li{
+    list-style: none;
+}
+.active{
+    font-weight: bold;
+}
+.edit-link{
+    text-decoration: none;
+    color: rgb(223, 205, 205);
+    
+}
+.edit-link:hover{
+    color: rgb(63, 60, 60);
+}
